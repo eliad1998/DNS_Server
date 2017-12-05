@@ -1,0 +1,3 @@
+www.biu.ac.il A 1.2.3.4:1231 2000
+biu.ac.il NS ns.biu.ac.il 3000
+127.0.0.1 12345

@@ -1,0 +1,7 @@
+ns.com A 2.3.4.2:12347 20
+com NS ns.com 20
+net A 44.3.4.2 2000
+net NS ns.net 3000
+edu A 22.3.4.2 2000
+edu NS ns.edu 3000
+127.0.0.1 12346
